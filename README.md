@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Theme-Climate%20%26%20Health%20Resilience-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit" />
-<img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+
 
 # 🌍 IndabaX Cameroon 2026 – Climate & Health Resilience
 
@@ -55,9 +55,3 @@ It helps public health authorities anticipate respiratory risks caused by heat w
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR-USERNAME/IndabaX-2026-Climate-Health-Resilience.git
-cd IndabaX-2026-Climate-Health-Resilience
