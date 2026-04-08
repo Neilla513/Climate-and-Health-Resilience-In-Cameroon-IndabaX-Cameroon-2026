@@ -1,6 +1,5 @@
 # ==================================================
-# AIR QUALITY MONITOR CAMEROON - ALL 42 CITIES WORKING
-# Complete working version with synthetic data for all cities
+# AIR QUALITY MONITOR CAMEROON - ALL 42 CITIES 
 # ==================================================
 
 import streamlit as st
